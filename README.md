@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fowad</h1>
-<h3 align="center">A passionate frontend developer from Denmark</h3>
+<h3 align="center">A passionate Full stack Engineer, a tech leader and enthusiast about AI tranformations, from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawadik&label=Profile%20views&color=0e75b6&style=flat" alt="fawadik" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [My portfolio](https://github.com/fawadik/portfolio)
 
-- 🌱 I’m currently learning **Google cloud platform, styled components**
+- 🌱 I’m experiencing **AI transformations, Google cloud platform, NextJs, Tech Leadership, Management, Cross-team collaboration**
 
-- 💬 Ask me about **React, NodeJs, Typescript and mongodb**
+- 💬 Ask me about **React, NodeJs, Typescript, Databases, Tech leadership, resource allocation, strategy, implementation and much more**
 
 - 📫 How to reach me **fawadik@yahoo.com**
 
