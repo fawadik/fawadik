@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fawadik" alt="fawadik" /></a> </p>
 
-- 🔭 I’m currently working on [My portfolio](https://github.com/fawadik/portfolio)
+- 🔭 I’m currently working as Head of Tech at Goodiebox Aps, Copenhagen Denmark, Feel free to connect on linkedin
 
 - 🌱 I’m experiencing **AI transformations, Google cloud platform, NextJs, Tech Leadership, Management, Cross-team collaboration**
 
